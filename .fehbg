@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-scale '/home/bran/Downloads/wallpapersden.com_iceberg-minimalist_7680x4320.jpg' 
