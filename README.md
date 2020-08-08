@@ -9,7 +9,7 @@
 
 
 
-### Code - Nvim & Alacrity
+### Code - Neovim & Alacrity
 <p align="left">
   <img src="https://github.com/HeavyRain266/iceberg-dots/blob/master/screenshots/2.png" width="850">
 </p>
